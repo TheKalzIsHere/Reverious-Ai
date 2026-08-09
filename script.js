@@ -22,7 +22,7 @@ const OPENAI_MODEL = "gpt-4.1-mini";
 const OPENAI_VISION_MODEL = "gpt-4.1-mini";
 // Isi API key OpenAI kamu di sini, atau lebih aman set window.OPENAI_API_KEY
 // sebelum script ini dijalankan. Jangan membagikan API key ke orang lain.
-const OPENAI_API_KEY = window.OPENAI_API_KEY || "AQ.Ab8RN6L31KWYUTNfYwEGNzbOijlYN96nmzJNsXAPOhTpEU6ig";
+const OPENAI_API_KEY = window.OPENAI_API_KEY || "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";
 
 // ============================================================
 //  ALARM AUDIO SYSTEM
